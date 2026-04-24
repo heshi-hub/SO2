@@ -68,13 +68,13 @@ It demonstrates the use of GUI frameworks and object-oriented design to build a 
 
 ---
 
- 📸 (Optional)
+ 📸 Screenshot
 
-Add screenshots of your GUI here for better presentation.
+ ![Cow GUI](image/cow_gui.png)
 
 ---
 
-## 🎯 Purpose
+ 🎯 Purpose
 
 This project was developed as part of the SO2 coursework to:
 
