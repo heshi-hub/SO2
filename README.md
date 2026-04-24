@@ -84,7 +84,5 @@ This project was developed as part of the SO2 coursework to:
 
 ---
 
-## 👤 Author
-
-Your Name
-🔗 [GitHub Profile](https://github.com/yourusername)
+ 👤 Author
+🔗 [Patterned cattle](https://github.com/heshi-hub/SO2/tree/main/src/drawingTool)
